@@ -7,7 +7,7 @@ is `planning`, an agent for planning only (claude runs with
 is `control-agent`, the head agent, which gets the output of every other agent
 as one multiplexed stream.
 
-![agent system](docs/agent-system.png)
+![agent system](tmux/docs/agent-system.png)
 
 Feed lines look like:
 
